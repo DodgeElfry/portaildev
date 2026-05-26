@@ -53,24 +53,24 @@
     },
     {
       "id": "proj-002",
-      "name": "",
-      "slug": "",
-      "tagline": "",
+      "name": "Devconnect",
+      "slug": "devconnect",
+      "tagline": "portail de portfolios",
       "description": "",
-      "status": "",
-      "visibility": "",
+      "status": "en developpement",
+      "visibility": "public",
       "team": {
-        "id": "",
-        "name": "",
-        "color": ""
+        "id": "team-alpha",
+        "name": "Team Alpha",
+        "color": "#6366f1"
       },
       "members": [
-        { "devId": "", "role": "" },
+        { "devId": "dev-002", "role": "Fullstack" },
         { "devId": "", "role": "" }
       ],
       "stack": {
-        "frontend": [""],
-        "backend": [""]
+        "frontend": ["html5", "css3", "JavaScript"],
+        "backend": ["Node.js"]
       },
       "features": [
         ""
@@ -83,8 +83,8 @@
         "testCoverage": ""
       },
       "links": {
-        "demo": "",
-        "github": ""
+        "demo": "null",
+        "github": "https://github.com/marvansa428_dev/portaildev"
       },
       "thumbnail": "",
       "screenshots": [
@@ -92,11 +92,11 @@
         "",
         ""
       ],
-      "tags": [""],
+      "tags": ["web,developper, projet, portfolio"],
       "startDate": "",
       "endDate": "",
       "duration": "",
-      "client": "",
+      "client": "ecole 241",
       "isFeatured": ""
     }
   ],
