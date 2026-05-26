@@ -49,6 +49,31 @@
       "availability": "open_to_missions",
       "languages": ["Français", "Anglais"],
       "joinedAt": "2026-05-26"
+    },
+    {
+      "id": "dev-010",
+      "firstName": "",
+      "lastName": "",
+      "avatar": "../assets/avatar/x.png",
+      "role": "",
+      "team": "",
+      "email": "",
+      "location": "",
+      "bio": "",
+      "stack": {
+        "languages": [""],
+        "tools": [""]
+      },
+      "projects": ["proj-001", "proj-002", "proj-004"],
+      "socials": {
+        "github": "",
+        "linkedin": "",
+        "portfolio": ""
+      },
+      "levelOfExperience": "",
+      "availability": "",
+      "languages": [""],
+      "joinedAt": ""
     }
   ],
   "teams": [
