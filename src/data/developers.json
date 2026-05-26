@@ -29,7 +29,7 @@
       "id": "dev-028",
       "firstName": "Christ Jordan",
       "lastName": "OBIANG",
-      "avatar": "../assets/avatar/x.png",
+      "avatar": "../public/avatars/christ.png",
       "role": "Développeur full-stack",
       "team": "Team Alpha",
       "email": "christjordan53@gmail.com",
