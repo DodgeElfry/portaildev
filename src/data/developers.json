@@ -4,7 +4,7 @@
       "id": "dev-001",
       "firstName": "Dodge Elfry",
       "lastName": "NGUIA",
-      "avatar": "../assets/avatar/dodge.png",
+      "avatar": "/public/avatars/dodge.png",
       "role": "Développeur full-stack",
       "team": "Team Alpha",
       "email": "nguiadodge@gmail.com",
@@ -69,6 +69,12 @@
       "name": "Team Gamma",
       "color": "#f59e0b",
       "focus": "Backend"
+    },
+    {
+      "id": "dox",
+      "name": "Dox",
+      "color": "#A1B1CD",
+      "focus": "Fullstack"
     }
   ]
 }
