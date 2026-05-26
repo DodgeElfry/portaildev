@@ -52,28 +52,30 @@
       "isFeatured": true
     },
     {
-      "id": "proj-002",
-      "name": "",
-      "slug": "",
-      "tagline": "",
+      "id": "proj-010",
+      "name": "DevConnect",
+      "slug": "devconnect",
+      "tagline": "Portail de portofolios",
       "description": "",
-      "status": "",
-      "visibility": "",
+      "status": "En développement",
+      "visibility": "public",
       "team": {
-        "id": "",
-        "name": "",
-        "color": ""
+        "id": "team-alpha",
+        "name": "Team Alpha",
+        "color": "#6366f1"
       },
       "members": [
-        { "devId": "", "role": "" },
+        { "devId": "010", "role": "Frontend" },
         { "devId": "", "role": "" }
       ],
       "stack": {
-        "frontend": [""],
-        "backend": [""]
+        "frontend": ["HTML5", "CSS3", "Javascript"],
+        "backend": ["Node.js"]
       },
       "features": [
-        ""
+        "Recherche",
+        "Filtre par lieu",
+        "Filtre par compétences"
       ],
       "metrics": {
         "linesOfCode": "",
@@ -83,8 +85,8 @@
         "testCoverage": ""
       },
       "links": {
-        "demo": "",
-        "github": ""
+        "demo": "null",
+        "github": "https://github.com/Fatim007/portaildev"
       },
       "thumbnail": "",
       "screenshots": [
@@ -92,12 +94,12 @@
         "",
         ""
       ],
-      "tags": [""],
-      "startDate": "",
-      "endDate": "",
-      "duration": "",
-      "client": "",
-      "isFeatured": ""
+      "tags": ["web", "portfolio", "développeur"],
+      "startDate": "2026-05-15",
+      "endDate": "unknown",
+      "duration": "unknown",
+      "client": "Ecole241",
+      "isFeatured": "true"
     }
   ],
   "meta": {
@@ -107,3 +109,4 @@
     "lastUpdated": "2026-05-26"
   }
 }
+
