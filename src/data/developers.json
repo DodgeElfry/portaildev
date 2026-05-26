@@ -26,29 +26,29 @@
       "joinedAt": "2026-05-26"
     },
     {
-      "id": "dev-002",
-      "firstName": "",
-      "lastName": "",
+      "id": "dev-028",
+      "firstName": "Christ Jordan",
+      "lastName": "OBIANG",
       "avatar": "../assets/avatar/x.png",
-      "role": "",
-      "team": "",
-      "email": "",
-      "location": "",
-      "bio": "",
+      "role": "Développeur full-stack",
+      "team": "Team Alpha",
+      "email": "christjordan53@gmail.com",
+      "location": "Libreville, Gabon",
+      "bio": "Développeur web en formation à Libreville, Gabon. Passionné par le code. En dehors du code, j'suis un jeune romancier et aussi un amateur de musique.",
       "stack": {
-        "languages": [""],
-        "tools": [""]
+        "languages": ["HTML5", "CSS3", "JavaScript"],
+        "tools": ["Figma", "Vite", "GitHub", "Visual Studio Code"]
       },
       "projects": ["proj-001", "proj-002", "proj-004"],
       "socials": {
-        "github": "",
-        "linkedin": "",
-        "portfolio": ""
+        "github": "https://github.com/JordanCode28",
+        "linkedin": "https://linkedin.com/in/christ-jordan-obiang/",
+        "portfolio": "https://jordancode28.github.io/mon_portfolio/"
       },
-      "levelOfExperience": "",
-      "availability": "",
-      "languages": [""],
-      "joinedAt": ""
+      "levelOfExperience": "Débutant",
+      "availability": "open_to_missions",
+      "languages": ["Français", "Anglais"],
+      "joinedAt": "2026-05-26"
     }
   ],
   "teams": [
