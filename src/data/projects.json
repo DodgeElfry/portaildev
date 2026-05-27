@@ -15,7 +15,8 @@
       },
       "members": [
         { "devId": "dev-001", "role": "Fullstack & API" },
-        { "devId": "dev-028", "role": "Data" }
+        { "devId": "dev-028", "role": "Data" },
+        { "devId": "", "role": "" }
       ],
       "stack": {
         "frontend": ["HTML5", "CSS3", "Javascript"],
