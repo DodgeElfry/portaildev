@@ -54,7 +54,7 @@
       "id": "dev-010",
       "firstName": "Fatim",
       "lastName": "Nsangou",
-      "avatar": "../assets/avatar/x.png",
+      "avatar": "/public/avatar/imgFatou.png",
       "role": "Développeuse Frontend",
       "team": "Team Alpha",
       "email": "fatoumatansangou@gmail.com",
