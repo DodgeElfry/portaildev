@@ -51,10 +51,10 @@
       "joinedAt": "2026-05-26"
     },
     {
-      "id": "dev-010",
+      "id": "dev-007",
       "firstName": "",
       "lastName": "",
-      "avatar": "../assets/avatar/x.png",
+      "avatar": "/public/avatar/x.png",
       "role": "",
       "team": "",
       "email": "",
@@ -64,7 +64,7 @@
         "languages": [""],
         "tools": [""]
       },
-      "projects": ["proj-001", "proj-002", "proj-004"],
+      "projects": ["proj-000", "proj-000", "proj-000"],
       "socials": {
         "github": "",
         "linkedin": "",
