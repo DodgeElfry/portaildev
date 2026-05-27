@@ -51,29 +51,29 @@
       "joinedAt": "2026-05-26"
     },
     {
-      "id": "dev-007",
-      "firstName": "",
-      "lastName": "",
+      "id": "dev-022",
+      "firstName": "Marva Lorene",
+      "lastName": "NSA OBOUNOU",
       "avatar": "/public/avatar/x.png",
-      "role": "",
-      "team": "",
-      "email": "",
-      "location": "",
-      "bio": "",
+      "role": "Développeur full-stack",
+      "team": "Team Alpha",
+      "email": "marvansa428@gmail",
+      "location": "Libreville, Gabon",
+      "bio": "Developpeur web, attirée par les logiciels et la conception des projets numériques modernes",
       "stack": {
-        "languages": [""],
-        "tools": [""]
+        "languages": ["HTML5", "CSS3", "JavaScript", "TypeScript"],
+        "tools": ["Figma", "Vite", "Visual Studio Code", "GitHub"]
       },
-      "projects": ["proj-000", "proj-000", "proj-000"],
+      "projects": ["proj-001", "proj-022"],
       "socials": {
-        "github": "",
+        "github": "https://github.com/marvansa428-dev",
         "linkedin": "",
-        "portfolio": ""
+        "portfolio": "https:/github.com/marvansa428-dev/portfolio-marva.git"
       },
-      "levelOfExperience": "",
-      "availability": "",
-      "languages": [""],
-      "joinedAt": ""
+      "levelOfExperience": "debutant",
+      "availability": "open to missions",
+      "languages": ["Français", "Anglais"],
+      "joinedAt": "2026-05-27"
     }
   ],
   "teams": [
