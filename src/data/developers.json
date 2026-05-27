@@ -1,0 +1,105 @@
+{
+  "developers": [
+    {
+      "id": "dev-001",
+      "firstName": "Dodge Elfry",
+      "lastName": "NGUIA",
+      "avatar": "/public/avatars/dodge.png",
+      "role": "Développeur full-stack",
+      "team": "Team Alpha",
+      "email": "nguiadodge@gmail.com",
+      "location": "Libreville, Gabon",
+      "bio": "Développeur web & mobile. Passionné par l'achitecture logiciel et le web design.",
+      "stack": {
+        "languages": ["TypeScript", "JavaScript", "HTML5", "CSS3"],
+        "tools": ["Figma", "Vite"]
+      },
+      "projects": ["proj-001", "proj-003", "proj-005"],
+      "socials": {
+        "github": "https://github.com/DodgeElfry",
+        "linkedin": "https://linkedin.com/in/dodge-nguia/",
+        "portfolio": "https://dodge-elfry.dev"
+      },
+      "levelOfExperience": "Débutant",
+      "availability": "open_to_missions",
+      "languages": ["Français", "Anglais"],
+      "joinedAt": "2026-05-26"
+    },
+    {
+      "id": "dev-028",
+      "firstName": "Christ Jordan",
+      "lastName": "OBIANG",
+      "avatar": "/public/avatars/christ.png",
+      "role": "Développeur full-stack",
+      "team": "Team Alpha",
+      "email": "christjordan53@gmail.com",
+      "location": "Libreville, Gabon",
+      "bio": "Développeur web en formation à Libreville, Gabon. Passionné par le code. En dehors du code, j'suis un jeune romancier et aussi un amateur de musique.",
+      "stack": {
+        "languages": ["HTML5", "CSS3", "JavaScript"],
+        "tools": ["Figma", "Vite", "GitHub", "Visual Studio Code"]
+      },
+      "projects": ["proj-001", "proj-002", "proj-004"],
+      "socials": {
+        "github": "https://github.com/JordanCode28",
+        "linkedin": "https://linkedin.com/in/christ-jordan-obiang/",
+        "portfolio": "https://jordancode28.github.io/mon_portfolio/"
+      },
+      "levelOfExperience": "Débutant",
+      "availability": "open_to_missions",
+      "languages": ["Français", "Anglais"],
+      "joinedAt": "2026-05-26"
+    },
+    {
+      "id": "dev-007",
+      "firstName": "",
+      "lastName": "",
+      "avatar": "/public/avatar/x.png",
+      "role": "",
+      "team": "",
+      "email": "",
+      "location": "",
+      "bio": "",
+      "stack": {
+        "languages": [""],
+        "tools": [""]
+      },
+      "projects": ["proj-000", "proj-000", "proj-000"],
+      "socials": {
+        "github": "",
+        "linkedin": "",
+        "portfolio": ""
+      },
+      "levelOfExperience": "",
+      "availability": "",
+      "languages": [""],
+      "joinedAt": ""
+    }
+  ],
+  "teams": [
+    {
+      "id": "team-alpha",
+      "name": "Team Alpha",
+      "color": "#6366f1",
+      "focus": "Fullstack"
+    },
+    {
+      "id": "team-beta",
+      "name": "Team Beta",
+      "color": "#10b981",
+      "focus": "Frontend"
+    },
+    {
+      "id": "team-gamma",
+      "name": "Team Gamma",
+      "color": "#f59e0b",
+      "focus": "Backend"
+    },
+    {
+      "id": "dox",
+      "name": "Dox",
+      "color": "#A1B1CD",
+      "focus": "Fullstack"
+    }
+  ]
+}
