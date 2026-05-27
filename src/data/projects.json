@@ -15,6 +15,7 @@
       },
       "members": [
         { "devId": "dev-001", "role": "Fullstack & API" },
+        { "devId": "dev-028", "role": "Data" },
         { "devId": "", "role": "" }
       ],
       "stack": {
@@ -38,11 +39,11 @@
         "demo": null,
         "github": "https://github.com/DodgeElfry/portaildev"
       },
-      "thumbnail": "../assets/projects/devconnect/logo.png",
+      "thumbnail": "/public/projects/devconnect/logo.png",
       "screenshots": [
-        "../assets/projects/devconnect/home.png",
-        "../assets/projects/devconnect/all_devs.png",
-        "../assets/projects/devconnect/all_projects.png"
+        "/public/projects/devconnect/home.png",
+        "/public/projects/devconnect/all_devs.png",
+        "/public/projects/devconnect/all_projects.png"
       ],
       "tags": ["web", "portfolio", "développeur", "projets"],
       "startDate": "2026-05-15",
@@ -52,58 +53,53 @@
       "isFeatured": true
     },
     {
-      "id": "proj-002",
-      "name": "",
-      "slug": "",
-      "tagline": "",
-      "description": "",
-      "status": "",
-      "visibility": "",
+      "id": "proj-003",
+      "name": "DUDU",
+      "slug": "dudu",
+      "tagline": "Plateforme d'inscription et de gestion d'évènements",
+      "description": "...",
+      "status": "En développement",
+      "visibility": "privé",
       "team": {
-        "id": "",
-        "name": "",
-        "color": ""
+        "id": "dox",
+        "name": "Dox",
+        "color": "#A1B1CD"
       },
       "members": [
-        { "devId": "", "role": "" },
-        { "devId": "", "role": "" }
+        { "devId": "dev-001", "role": "Developpeur Fullstack" }
       ],
       "stack": {
-        "frontend": [""],
-        "backend": [""]
+        "frontend": ["HTML5","CSS3","Typescript"],
+        "backend": ["Node.js"]
       },
       "features": [
-        ""
+        "Recherche",
+        "Localisation",
+        "Filtres",
+        "Authentification",
+        "Paiements",
+        "Dashboard",
+        "Création d'activité"
       ],
-      "metrics": {
-        "linesOfCode": "",
-        "commits": "",
-        "openIssues": "",
-        "closedIssues": "",
-        "testCoverage": ""
-      },
-      "links": {
-        "demo": "",
-        "github": ""
-      },
-      "thumbnail": "",
+      "thumbnail": "/public/projects/dudu/logo.png",
       "screenshots": [
-        "",
-        "",
-        ""
+        "/public/projects/dudu/home.png",
+        "/public/projects/dudu/activite.png",
+        "/public/projects/dudu/profile.png"
       ],
-      "tags": [""],
-      "startDate": "",
-      "endDate": "",
-      "duration": "",
-      "client": "",
-      "isFeatured": ""
+      "tags": ["web", "portfolio", "développeur", "projets"],
+      "startDate": "2026-04-01",
+      "endDate": "unknown",
+      "duration": "unknown",
+      "client": "Dodge Elfry NGUIA",
+      "isFeatured": true
     }
   ],
   "meta": {
-    "totalProjects": 1,
+    "totalProjects": 2,
     "statusOptions": ["mvp", "En développement", "En production", "archivé"],
     "visibilityOptions": ["public", "privé"],
     "lastUpdated": "2026-05-26"
   }
 }
+

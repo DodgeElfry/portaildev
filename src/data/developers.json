@@ -4,7 +4,7 @@
       "id": "dev-001",
       "firstName": "Dodge Elfry",
       "lastName": "NGUIA",
-      "avatar": "../assets/avatar/dodge.png",
+      "avatar": "/public/avatars/dodge.png",
       "role": "Développeur full-stack",
       "team": "Team Alpha",
       "email": "nguiadodge@gmail.com",
@@ -26,29 +26,54 @@
       "joinedAt": "2026-05-26"
     },
     {
-      "id": "dev-002",
-      "firstName": "",
-      "lastName": "",
-      "avatar": "../assets/avatar/x.png",
-      "role": "",
-      "team": "",
-      "email": "",
-      "location": "",
-      "bio": "",
+      "id": "dev-028",
+      "firstName": "Christ Jordan",
+      "lastName": "OBIANG",
+      "avatar": "/public/avatars/christ.png",
+      "role": "Développeur full-stack",
+      "team": "Team Alpha",
+      "email": "christjordan53@gmail.com",
+      "location": "Libreville, Gabon",
+      "bio": "Développeur web en formation à Libreville, Gabon. Passionné par le code. En dehors du code, j'suis un jeune romancier et aussi un amateur de musique.",
       "stack": {
-        "languages": [""],
-        "tools": [""]
+        "languages": ["HTML5", "CSS3", "JavaScript"],
+        "tools": ["Figma", "Vite", "GitHub", "Visual Studio Code"]
       },
       "projects": ["proj-001", "proj-002", "proj-004"],
       "socials": {
-        "github": "",
-        "linkedin": "",
-        "portfolio": ""
+        "github": "https://github.com/JordanCode28",
+        "linkedin": "https://linkedin.com/in/christ-jordan-obiang/",
+        "portfolio": "https://jordancode28.github.io/mon_portfolio/"
       },
-      "levelOfExperience": "",
-      "availability": "",
-      "languages": [""],
-      "joinedAt": ""
+      "levelOfExperience": "Débutant",
+      "availability": "open_to_missions",
+      "languages": ["Français", "Anglais"],
+      "joinedAt": "2026-05-26"
+    },
+    {
+      "id": "dev-010",
+      "firstName": "Fatim",
+      "lastName": "Nsangou",
+      "avatar": "/public/avatars/fatou.png",
+      "role": "Développeuse Frontend",
+      "team": "Team Alpha",
+      "email": "fatoumatansangou@gmail.com",
+      "location": "Libreville, Gabon",
+      "bio": "Développeuse web en formation à L'école241 Passionnée du Numérique et de la Technologie",
+      "stack": {
+        "languages": ["HTML5", "CSS3","JavaScript"],
+        "tools": ["Figma", "Visual Studio Code", "GitHub", "Vite", "Visily AI"]
+      },
+      "projects": ["proj-001"],
+      "socials": {
+        "github": "https://github.com/Fatim007",
+        "linkedin": "",
+        "portfolio": "https://fatim007.github.io/Portofolio/"
+      },
+      "levelOfExperience": "Débutante",
+      "availability": "open_to_missions",
+      "languages": ["Français", "Anglais"],
+      "joinedAt": "2025-15-10"
     }
   ],
   "teams": [
@@ -69,6 +94,12 @@
       "name": "Team Gamma",
       "color": "#f59e0b",
       "focus": "Backend"
+    },
+    {
+      "id": "dox",
+      "name": "Dox",
+      "color": "#A1B1CD",
+      "focus": "Fullstack"
     }
   ]
 }
