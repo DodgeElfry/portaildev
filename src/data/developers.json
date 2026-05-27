@@ -4,7 +4,7 @@
       "id": "dev-001",
       "firstName": "Dodge Elfry",
       "lastName": "NGUIA",
-      "avatar": "../assets/avatar/dodge.png",
+      "avatar": "/public/avatars/dodge.png",
       "role": "Développeur full-stack",
       "team": "Team Alpha",
       "email": "nguiadodge@gmail.com",
@@ -29,7 +29,7 @@
       "id": "dev-028",
       "firstName": "Christ Jordan",
       "lastName": "OBIANG",
-      "avatar": "../assets/avatar/x.png",
+      "avatar": "/public/avatars/christ.png",
       "role": "Développeur full-stack",
       "team": "Team Alpha",
       "email": "christjordan53@gmail.com",
@@ -64,7 +64,7 @@
         "languages": ["HTML5", "CSS3","JavaScript"],
         "tools": ["Figma", "Visual Studio Code", "GitHub", "Vite", "Visily AI"]
       },
-      "projects": ["proj-001", "proj-002", "proj-004"],
+      "projects": ["proj-001"],
       "socials": {
         "github": "https://github.com/Fatim007",
         "linkedin": "",
@@ -94,6 +94,12 @@
       "name": "Team Gamma",
       "color": "#f59e0b",
       "focus": "Backend"
+    },
+    {
+      "id": "dox",
+      "name": "Dox",
+      "color": "#A1B1CD",
+      "focus": "Fullstack"
     }
   ]
 }
