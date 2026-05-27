@@ -4,7 +4,7 @@
       "id": "dev-001",
       "firstName": "Dodge Elfry",
       "lastName": "NGUIA",
-      "avatar": "/public/avatars/dodge.png",
+      "avatar": "/public/avatars/dodge.jpg",
       "role": "Développeur full-stack",
       "team": "Team Alpha",
       "email": "nguiadodge@gmail.com",
@@ -12,7 +12,7 @@
       "bio": "Développeur web & mobile. Passionné par l'achitecture logiciel et le web design.",
       "stack": {
         "languages": ["TypeScript", "JavaScript", "HTML5", "CSS3"],
-        "tools": ["Figma", "Vite"]
+        "tools": ["Node.js", "npm", "Figma", "Vite"]
       },
       "projects": ["proj-001", "proj-003", "proj-005"],
       "socials": {
