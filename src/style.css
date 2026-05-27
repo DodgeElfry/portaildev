@@ -1,0 +1,13 @@
+:root {
+ /* couleurs */
+ --primary-color: #ffff;
+ --text-color: #121A33;
+ --text-colorgrasbuton: #6C63FF;
+ --color-butonsecondaire: #161f3a;
+ --color-footer: #121A33;
+
+ /* Typographie taille */
+ --primary-text: 40px;
+ --text-buton: 18px;
+ --text-secondaire: 24px;
+}
