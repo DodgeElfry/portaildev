@@ -40,9 +40,9 @@
       },
       "thumbnail": "../assets/projects/devconnect/logo.png",
       "screenshots": [
-        "../assets/projects/devconnect/home.png",
-        "../assets/projects/devconnect/all_devs.png",
-        "../assets/projects/devconnect/all_projects.png"
+        "/public/projects/devconnect/home.png",
+        "/public/projects/devconnect/all_devs.png",
+        "/public/projects/devconnect/all_projects.png"
       ],
       "tags": ["web", "portfolio", "développeur", "projets"],
       "startDate": "2026-05-15",
@@ -50,56 +50,6 @@
       "duration": "unknown",
       "client": "Ecole 241",
       "isFeatured": true
-    },
-    {
-      "id": "proj-010",
-      "name": "DevConnect",
-      "slug": "devconnect",
-      "tagline": "Portail de portofolios",
-      "description": "",
-      "status": "En développement",
-      "visibility": "public",
-      "team": {
-        "id": "team-alpha",
-        "name": "Team Alpha",
-        "color": "#6366f1"
-      },
-      "members": [
-        { "devId": "010", "role": "Frontend" },
-        { "devId": "", "role": "" }
-      ],
-      "stack": {
-        "frontend": ["HTML5", "CSS3", "Javascript"],
-        "backend": ["Node.js"]
-      },
-      "features": [
-        "Recherche",
-        "Filtre par lieu",
-        "Filtre par compétences"
-      ],
-      "metrics": {
-        "linesOfCode": "",
-        "commits": "",
-        "openIssues": "",
-        "closedIssues": "",
-        "testCoverage": ""
-      },
-      "links": {
-        "demo": "null",
-        "github": "https://github.com/Fatim007/portaildev"
-      },
-      "thumbnail": "",
-      "screenshots": [
-        "",
-        "",
-        ""
-      ],
-      "tags": ["web", "portfolio", "développeur"],
-      "startDate": "2026-05-15",
-      "endDate": "unknown",
-      "duration": "unknown",
-      "client": "Ecole241",
-      "isFeatured": "true"
     }
   ],
   "meta": {
