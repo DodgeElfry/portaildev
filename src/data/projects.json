@@ -16,11 +16,18 @@
       "members": [
         { "devId": "dev-001", "role": "Fullstack & API" },
         { "devId": "dev-028", "role": "Data" },
-        { "devId": "", "role": "" }
+        { "devId": "dev-010", "role": "Data & CSS" },
+        { "devId": "dev-022", "role": "Fullstack" }
       ],
       "stack": {
-        "frontend": ["HTML5", "CSS3", "Javascript"],
-        "backend": ["Node.js"]
+        "frontend": [
+          "HTML5",
+          "CSS3",
+          "Javascript"
+        ],
+        "backend": [
+          "Node.js"
+        ]
       },
       "features": [
         "Recherche",
@@ -45,7 +52,12 @@
         "/public/projects/devconnect/all_devs.png",
         "/public/projects/devconnect/all_projects.png"
       ],
-      "tags": ["web", "portfolio", "développeur", "projets"],
+      "tags": [
+        "web",
+        "portfolio",
+        "développeur",
+        "projets"
+      ],
       "startDate": "2026-05-15",
       "endDate": "unknown",
       "duration": "unknown",
@@ -66,11 +78,20 @@
         "color": "#A1B1CD"
       },
       "members": [
-        { "devId": "dev-001", "role": "Developpeur Fullstack" }
+        {
+          "devId": "dev-001",
+          "role": "Developpeur Fullstack"
+        }
       ],
       "stack": {
-        "frontend": ["HTML5","CSS3","Typescript"],
-        "backend": ["Node.js"]
+        "frontend": [
+          "HTML5",
+          "CSS3",
+          "Typescript"
+        ],
+        "backend": [
+          "Node.js"
+        ]
       },
       "features": [
         "Recherche",
@@ -87,19 +108,69 @@
         "/public/projects/dudu/activite.png",
         "/public/projects/dudu/profile.png"
       ],
-      "tags": ["web", "portfolio", "développeur", "projets"],
+      "tags": [
+        "web",
+        "portfolio",
+        "développeur",
+        "projets"
+      ],
       "startDate": "2026-04-01",
       "endDate": "unknown",
       "duration": "unknown",
       "client": "Dodge Elfry NGUIA",
       "isFeatured": true
+    },
+    {
+     "id": "proj-022",
+     "name": "Consopilot",
+     "slug": "consopilot",
+     "tagline": "Plateforme de controle de consommation en eau et en energie",
+     "description": "...",
+     "status": "En développement",
+     "visibility": "privé",
+     "team": {
+      "id": "marva",
+      "name": "marva",
+      "color": "#0000FF"
+     },
+     "members": [
+      {
+        "devId": "dev-001",
+        "role": "Developpeur Fullstack"
+      }
+     ],
+     "stack": {
+      "frontend": [
+        "HTML5",
+        "CSS3",
+        "Typescript"
+      ],
+      "backend": [
+        "Node.js"
+      ]
+     },
+     "features": [
+      "Recherche",
+      "Localisation",
+      "Filtres",
+      "consultation",
+      "Paiements",
+      "Dashboard"
+      ]
     }
   ],
   "meta": {
     "totalProjects": 2,
-    "statusOptions": ["mvp", "En développement", "En production", "archivé"],
-    "visibilityOptions": ["public", "privé"],
+    "statusOptions": [
+      "mvp",
+      "En développement",
+      "En production",
+      "archivé"
+    ],
+    "visibilityOptions": [
+      "public",
+      "privé"
+    ],
     "lastUpdated": "2026-05-26"
   }
 }
-
