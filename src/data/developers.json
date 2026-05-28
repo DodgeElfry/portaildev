@@ -4,7 +4,7 @@
       "id": "dev-001",
       "firstName": "Dodge Elfry",
       "lastName": "NGUIA",
-      "avatar": "/public/avatars/dodge.png",
+      "avatar": "/public/avatars/dodge.jpg",
       "role": "Développeur full-stack",
       "team": "Team Alpha",
       "email": "nguiadodge@gmail.com",
@@ -12,7 +12,7 @@
       "bio": "Développeur web & mobile. Passionné par l'achitecture logiciel et le web design.",
       "stack": {
         "languages": ["TypeScript", "JavaScript", "HTML5", "CSS3"],
-        "tools": ["Figma", "Vite"]
+        "tools": ["Node.js", "npm", "Figma", "Vite"]
       },
       "projects": ["proj-001", "proj-003", "proj-005"],
       "socials": {
@@ -29,7 +29,7 @@
       "id": "dev-028",
       "firstName": "Christ Jordan",
       "lastName": "OBIANG",
-      "avatar": "../public/avatars/christ.png",
+      "avatar": "/public/avatars/christ.png",
       "role": "Développeur full-stack",
       "team": "Team Alpha",
       "email": "christjordan53@gmail.com",
@@ -74,6 +74,31 @@
       "availability": "open to missions",
       "languages": ["Français", "Anglais"],
       "joinedAt": "2026-05-27"
+    },
+    {
+      "id": "dev-010",
+      "firstName": "Fatim",
+      "lastName": "Nsangou",
+      "avatar": "/public/avatars/fatou.png",
+      "role": "Développeuse Frontend",
+      "team": "Team Alpha",
+      "email": "fatoumatansangou@gmail.com",
+      "location": "Libreville, Gabon",
+      "bio": "Développeuse web en formation à L'école241 Passionnée du Numérique et de la Technologie",
+      "stack": {
+        "languages": ["HTML5", "CSS3","JavaScript"],
+        "tools": ["Figma", "Visual Studio Code", "GitHub", "Vite", "Visily AI"]
+      },
+      "projects": ["proj-001"],
+      "socials": {
+        "github": "https://github.com/Fatim007",
+        "linkedin": "",
+        "portfolio": "https://fatim007.github.io/Portofolio/"
+      },
+      "levelOfExperience": "Débutante",
+      "availability": "open_to_missions",
+      "languages": ["Français", "Anglais"],
+      "joinedAt": "2025-15-10"
     }
   ],
   "teams": [

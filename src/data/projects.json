@@ -14,18 +14,10 @@
         "color": "#6366f1"
       },
       "members": [
-        {
-          "devId": "dev-001",
-          "role": "Fullstack & API"
-        },
-        {
-          "devId": "dev-028",
-          "role": "Data"
-        }
-        {
-          "devId": "dev-022",
-          "role": "Fullstack"
-        }
+        { "devId": "dev-001", "role": "Fullstack & API" },
+        { "devId": "dev-028", "role": "Data" },
+        { "devId": "dev-010", "role": "Data & CSS" },
+        { "devId": "dev-022", "role": "Fullstack" }
       ],
       "stack": {
         "frontend": [
@@ -127,22 +119,7 @@
       "duration": "unknown",
       "client": "Dodge Elfry NGUIA",
       "isFeatured": true
-    }
-  ],
-  "meta": {
-    "totalProjects": 2,
-    "statusOptions": [
-      "mvp",
-      "En développement",
-      "En production",
-      "archivé"
-    ],
-    "visibilityOptions": [
-      "public",
-      "privé"
-    ],
-    "lastUpdated": "2026-05-26"
-  }
+    },
     {
      "id": "proj-022",
      "name": "Consopilot",
@@ -181,4 +158,19 @@
       "Dashboard"
       ]
     }
+  ],
+  "meta": {
+    "totalProjects": 2,
+    "statusOptions": [
+      "mvp",
+      "En développement",
+      "En production",
+      "archivé"
+    ],
+    "visibilityOptions": [
+      "public",
+      "privé"
+    ],
+    "lastUpdated": "2026-05-26"
+  }
 }
