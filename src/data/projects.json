@@ -52,52 +52,54 @@
       "isFeatured": true
     },
     {
-      "id": "proj-002",
-      "name": "",
-      "slug": "",
-      "tagline": "",
+      "id": "proj-003",
+      "name": "DevConnect",
+      "slug": "devconnect",
+      "tagline": "Portail de portofolios",
       "description": "",
-      "status": "",
-      "visibility": "",
+      "status": "En développement",
+      "visibility": "public",
       "team": {
-        "id": "",
-        "name": "",
-        "color": ""
+        "id": "team-alpha",
+        "name": "Team Alpha",
+        "color": "#6366f1"
       },
       "members": [
-        { "devId": "", "role": "" },
+        { "devId": "dev-003", "role": "frontend" },
         { "devId": "", "role": "" }
       ],
       "stack": {
-        "frontend": [""],
+        "frontend": ["HTML5", "CSS3" , "Javascript"],
         "backend": [""]
       },
       "features": [
-        ""
+        "Recherche",
+        "Filtre par lieu",
+        "Filtre par compétences"
       ],
       "metrics": {
-        "linesOfCode": "",
-        "commits": "",
-        "openIssues": "",
-        "closedIssues": "",
-        "testCoverage": ""
+        "linesOfCode": 620,
+        "commits": 40,
+        "openIssues": 8,
+        "closedIssues": 52,
+        "testCoverage": 31
       },
       "links": {
-        "demo": "",
-        "github": ""
+        "demo": null,
+        "github": "https://github.com/Anoumbalamahdorcas/portaildev"
       },
-      "thumbnail": "",
+      "thumbnail": "../assets/projects/devconnect/logo.png",
       "screenshots": [
-        "",
-        "",
-        ""
+        "../assets/projects/devconnect/home.png",
+        "../assets/projects/devconnect/all_devs.png",
+        "../assets/projects/devconnect/all_projects.png"
       ],
-      "tags": [""],
-      "startDate": "",
-      "endDate": "",
-      "duration": "",
-      "client": "",
-      "isFeatured": ""
+      "tags": ["web", "portfolio", "développeur", "projets"],
+      "startDate": "2026-05-15",
+      "endDate": "unknown",
+      "duration": "unknown",
+      "client": "Ecole 241",
+      "isFeatured": true
     }
   ],
   "meta": {
