@@ -11,7 +11,7 @@
       "team": {
         "id": "team-alpha",
         "name": "Team Alpha",
-        "color": "#6366f1"
+        "color": "#6366f1" 
       },
       "members": [
         { "devId": "dev-001", "role": "Fullstack & API" },
