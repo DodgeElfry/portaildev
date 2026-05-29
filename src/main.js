@@ -1,4 +1,5 @@
 import "./style.css";
+import { afficherLesCartes } from "./js/index.js";
 
 document.querySelector("#app").innerHTML = `
   <header>
@@ -64,3 +65,6 @@ document.querySelector("#app").innerHTML = `
     </span>
   </footer>
 `;
+
+// On déclenche tout au chargement de la page
+afficherLesCartes();
