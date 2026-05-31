@@ -49,6 +49,31 @@
       "availability": "",
       "languages": ["Francais"],
       "joinedAt": "2026-05-26"
+    },
+    {
+      "id": "dev-512",
+      "firstName": "Abdoul Wadoud",
+      "lastName": "BAKARY",
+      "avatar": "/public/avatars/abdoul.png",
+      "role": "Développeur Front-end",
+      "team": "Team Alpha",
+      "email": "eyichris88@gmail.com",
+      "location": "Libreville, Gabon",
+      "bio": "Développeur web et mobile, passionné par l'architecture logicielle et le web design.",
+      "stack": {
+        "languages": ["TypeScript", "JavaScript", "HTML5", "CSS3"],
+        "tools": ["Node.js", "npm", "Figma", "Vite"]
+      },
+      "projects": ["proj-001", "proj-050"],
+      "socials": {
+        "github": "https://github.com/Abdoul-12",
+        "linkedin": "https://www.linkedin.com/in/abdoul-wadoud-bakary-60a335365/",
+        "portfolio": "https://abdoul-12.github.io/My-portfolio/"
+      },
+      "levelOfExperience": "Débutant",
+      "availability": "open_to_missions",
+      "languages": ["Français", "Anglais"],
+      "joinedAt": "2026-05-31"
     }
   ],
   "teams": [

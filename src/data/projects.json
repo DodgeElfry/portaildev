@@ -5,7 +5,7 @@
       "name": "DevConnect",
       "slug": "devconnect",
       "tagline": "Portail de portofolios",
-      "description": "",
+      "description": "Portail collaboratif de portfolios conçu pour valoriser les profils, les compétences et les projets de développeurs web.",
       "status": "En développement",
       "visibility": "public",
       "team": {
@@ -15,7 +15,7 @@
       },
       "members": [
         { "devId": "dev-001", "role": "Fullstack & API" },
-        { "devId": "", "role": "" }
+        { "devId": "dev-512", "role": "Front-end & CSS" }
       ],
       "stack": {
         "frontend": ["HTML5", "CSS3", "Javascript"],
@@ -45,7 +45,7 @@
         "../assets/projects/devconnect/all_projects.png"
       ],
       "tags": ["web", "portfolio", "développeur", "projets"],
-      "startDate": "2026-05-15",
+      "startDate": "2026-05-17",
       "endDate": "unknown",
       "duration": "unknown",
       "client": "Ecole 241",
@@ -98,12 +98,59 @@
       "duration": "",
       "client": "ecole 241",
       "isFeatured": ""
+    },
+    {
+      "id": "proj-050",
+      "name": "MadinaTech",
+      "slug": "madina-tech",
+      "tagline": "Plateforme de mise en relation autour de projets numériques",
+      "description": "Plateforme web communautaire qui rapproche les porteurs de projets, les talents et les opportunités afin de favoriser la collaboration et l'émergence d'initiatives numériques.",
+      "status": "En développement",
+      "visibility": "public",
+      "team": {
+        "id": "dev-512",
+        "name": "Abdoul Wadoud BAKARY",
+        "color": "#6C63FF"
+      },
+      "members": [
+        { "devId": "dev-512", "role": "Développeur Front-end" }
+      ],
+      "stack": {
+        "frontend": ["HTML5", "CSS3", "JavaScript"],
+        "backend": []
+      },
+      "features": [
+        "Présentation de projets",
+        "Publication de projets",
+        "Profils de talents",
+        "Inscription et connexion",
+        "Tableau de bord"
+      ],
+      "metrics": {
+        "linesOfCode": "",
+        "commits": "",
+        "openIssues": "",
+        "closedIssues": "",
+        "testCoverage": ""
+      },
+      "links": {
+        "demo": null,
+        "github": null
+      },
+      "thumbnail": "",
+      "screenshots": [],
+      "tags": ["web", "communauté", "projets", "talents"],
+      "startDate": "2026-04-05",
+      "endDate": "unknown",
+      "duration": "unknown",
+      "client": "Projet personnel",
+      "isFeatured": true
     }
   ],
   "meta": {
-    "totalProjects": 1,
+    "totalProjects": 3,
     "statusOptions": ["mvp", "En développement", "En production", "archivé"],
     "visibilityOptions": ["public", "privé"],
-    "lastUpdated": "2026-05-26"
+    "lastUpdated": "2026-05-31"
   }
 }
