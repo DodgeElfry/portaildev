@@ -26,6 +26,31 @@
       "joinedAt": "2026-05-26"
     },
     {
+      "id": "dev-003",
+      "firstName": "Anoumbalamah",
+      "lastName": "dorcas",
+      "avatar": "/public/avatars/Dorcas.jpg",
+      "role": "Développeuse frontend",
+      "team": "Team Alpha",
+      "email": "anoumbalamahdorcas@gmail.com",
+      "location": "Libreville pk8 carrefour cenaress, Gabon",
+      "bio": "developpeseuse frontend passionnée par le design et l'ergonomie des interfaces utilisateur.",
+      "stack": {
+        "languages": ["HTML5", "CSS3", "JavaScript"],
+        "tools": ["Figma"]
+      },
+      "projects": ["proj-001", "proj-002", "proj-004"],
+      "socials": {
+        "github": "https://github.com/Anoumbalamahdorcas",
+        "linkedin": "",
+        "portfolio": "https://Lamahdorcas.dev"
+      },
+      "levelOfExperience": "Débutante",
+      "availability": "open_to_missions",
+      "languages": ["Français"],
+      "joinedAt": "2026-05-26"
+    },
+    { 
       "id": "dev-028",
       "firstName": "Christ Jordan",
       "lastName": "OBIANG",
