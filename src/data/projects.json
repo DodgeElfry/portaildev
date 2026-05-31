@@ -4,8 +4,8 @@
       "id": "proj-001",
       "name": "DevConnect",
       "slug": "devconnect",
-      "tagline": "Portail de portofolios",
-      "description": "",
+      "tagline": "Portail de portfolios",
+      "description": "Portail collaboratif de portfolios conçu pour valoriser les profils, les compétences et les projets de développeurs web.",
       "status": "En développement",
       "visibility": "public",
       "team": {
@@ -14,48 +14,15 @@
         "color": "#6366f1"
       },
       "members": [
-<<<<<<< HEAD
         { "devId": "dev-001", "role": "Fullstack & API" },
         { "devId": "dev-028", "role": "Data" },
         { "devId": "dev-010", "role": "Data & CSS" },
-        { "devId": "dev-022", "role": "Fullstack" }
-=======
-        {
-          "devId": "dev-001",
-          "role": "Fullstack & API"
-        },
-        {
-          "devId": "dev-028",
-          "role": "Data"
-        },
-        {
-          "devId": "",
-          "role": ""
-        }
-
-        {
-          "devId": "dev-001",
-          "role": "Fullstack & API"
-        },
-        {
-          "devId": "dev-028",
-          "role": "Data"
-        },
-        {
-          "devId": "dev-022",
-          "role": "Fullstack"
-        }
->>>>>>> develop
+        { "devId": "dev-022", "role": "Fullstack" },
+        { "devId": "dev-512", "role": "Front-end & CSS" }
       ],
       "stack": {
-        "frontend": [
-          "HTML5",
-          "CSS3",
-          "Javascript"
-        ],
-        "backend": [
-          "Node.js"
-        ]
+        "frontend": ["HTML5", "CSS3", "Javascript"],
+        "backend": ["Node.js"]
       },
       "features": [
         "Recherche",
@@ -80,13 +47,8 @@
         "/public/projects/devconnect/all_devs.png",
         "/public/projects/devconnect/all_projects.png"
       ],
-      "tags": [
-        "web",
-        "portfolio",
-        "développeur",
-        "projets"
-      ],
-      "startDate": "2026-05-15",
+      "tags": ["web", "portfolio", "développeur", "projets"],
+      "startDate": "2026-05-17",
       "endDate": "unknown",
       "duration": "unknown",
       "client": "Ecole 241",
@@ -106,20 +68,11 @@
         "color": "#A1B1CD"
       },
       "members": [
-        {
-          "devId": "dev-001",
-          "role": "Developpeur Fullstack"
-        }
+        { "devId": "dev-001", "role": "Developpeur Fullstack" }
       ],
       "stack": {
-        "frontend": [
-          "HTML5",
-          "CSS3",
-          "Typescript"
-        ],
-        "backend": [
-          "Node.js"
-        ]
+        "frontend": ["HTML5", "CSS3", "Typescript"],
+        "backend": ["Node.js"]
       },
       "features": [
         "Recherche",
@@ -136,91 +89,102 @@
         "/public/projects/dudu/activite.png",
         "/public/projects/dudu/profile.png"
       ],
-      "tags": [
-        "web",
-        "portfolio",
-        "développeur",
-        "projets"
-      ],
+      "tags": ["web", "portfolio", "développeur", "projets"],
       "startDate": "2026-04-01",
       "endDate": "unknown",
       "duration": "unknown",
       "client": "Dodge Elfry NGUIA",
       "isFeatured": true
-<<<<<<< HEAD
     },
-=======
-    }
-  ],
-  "meta": {
-    "totalProjects": 2,
-    "statusOptions": [
-      "mvp",
-      "En développement",
-      "En production",
-      "archivé"
-    ],
-    "visibilityOptions": [
-      "public",
-      "privé"
-    ],
-    "lastUpdated": "2026-05-26"
-  }
-},
-{
-  "id": "proj-022",
-  "name": "Consopilot",
-  "slug": "consopilot",
-  "tagline": "Plateforme de controle de consommation en eau et en energie",
-  "description": "...",
-  "status": "En développement",
-  "visibility": "privé",
-  "team": {
-    "id": "marva",
-    "name": "marva",
-    "color": "#0000FF"
-  },
-  "members": [
->>>>>>> develop
     {
-      "devId": "dev-001",
-      "role": "Developpeur Fullstack"
+      "id": "proj-022",
+      "name": "Consopilot",
+      "slug": "consopilot",
+      "tagline": "Plateforme de contrôle de consommation en eau et en énergie",
+      "description": "...",
+      "status": "En développement",
+      "visibility": "privé",
+      "team": {
+        "id": "marva",
+        "name": "marva",
+        "color": "#0000FF"
+      },
+      "members": [
+        { "devId": "dev-022", "role": "Developpeur Fullstack" }
+      ],
+      "stack": {
+        "frontend": ["HTML5", "CSS3", "Typescript"],
+        "backend": ["Node.js"]
+      },
+      "features": [
+        "Recherche",
+        "Localisation",
+        "Filtres",
+        "Consultation",
+        "Paiements",
+        "Dashboard"
+      ],
+      "thumbnail": "",
+      "screenshots": [],
+      "tags": ["web", "consommation", "eau", "énergie"],
+      "startDate": "",
+      "endDate": "unknown",
+      "duration": "unknown",
+      "client": "",
+      "isFeatured": true
+    },
+    {
+      "id": "proj-050",
+      "name": "MadinaTech",
+      "slug": "madina-tech",
+      "tagline": "Plateforme de mise en relation autour de projets numériques",
+      "description": "Plateforme web communautaire qui rapproche les porteurs de projets, les talents et les opportunités afin de favoriser la collaboration et l'émergence d'initiatives numériques.",
+      "status": "En développement",
+      "visibility": "public",
+      "team": {
+        "id": "dev-512",
+        "name": "Abdoul Wadoud BAKARY",
+        "color": "#6C63FF"
+      },
+      "members": [
+        { "devId": "dev-512", "role": "Développeur Front-end" }
+      ],
+      "stack": {
+        "frontend": ["HTML5", "CSS3", "JavaScript"],
+        "backend": []
+      },
+      "features": [
+        "Présentation de projets",
+        "Publication de projets",
+        "Profils de talents",
+        "Inscription et connexion",
+        "Tableau de bord"
+      ],
+      "metrics": {
+        "linesOfCode": "",
+        "commits": "",
+        "openIssues": "",
+        "closedIssues": "",
+        "testCoverage": ""
+      },
+      "links": {
+        "demo": null,
+        "github": null
+      },
+      "thumbnail": "",
+      "screenshots": [],
+      "tags": ["web", "communauté", "projets", "talents"],
+      "startDate": "2026-04-05",
+      "endDate": "unknown",
+      "duration": "unknown",
+      "client": "Projet personnel",
+      "isFeatured": true
     }
   ],
-<<<<<<< HEAD
   "meta": {
-    "totalProjects": 2,
-    "statusOptions": [
-      "mvp",
-      "En développement",
-      "En production",
-      "archivé"
-    ],
-    "visibilityOptions": [
-      "public",
-      "privé"
-    ],
-    "lastUpdated": "2026-05-26"
+    "totalProjects": 4,
+    "statusOptions": ["mvp", "En développement", "En production", "archivé"],
+    "visibilityOptions": ["public", "privé"],
+    "lastUpdated": "2026-05-31"
   }
 }
-=======
-  "stack": {
-    "frontend": [
-      "HTML5",
-      "CSS3",
-      "Typescript"
-    ],
-    "backend": [
-      "Node.js"
-    ]
-  },
-  "features": [
-    "Recherche",
-    "Localisation",
-    "Filtres",
-    "consultation",
-    "Paiements",
-    "Dashboard"
-  ]
-}
->>>>>>> develop
