@@ -51,6 +51,8 @@
       "joinedAt": "2026-05-26"
     },
     {
+<<<<<<< HEAD
+=======
       "id": "dev-010",
       "firstName": "Fatim",
       "lastName": "Nsangou",
@@ -61,7 +63,7 @@
       "location": "Libreville, Gabon",
       "bio": "Développeuse web en formation à L'école241 Passionnée du Numérique et de la Technologie",
       "stack": {
-        "languages": ["HTML5", "CSS3", "JavaScript"],
+        "languages": ["HTML5", "CSS3","JavaScript"],
         "tools": ["Figma", "Visual Studio Code", "GitHub", "Vite", "Visily AI"]
       },
       "projects": ["proj-001"],
@@ -76,6 +78,7 @@
       "joinedAt": "2025-15-10"
     },
     {
+>>>>>>> develop
       "id": "dev-022",
       "firstName": "Marva Lorene",
       "lastName": "NSA OBOUNOU",
@@ -93,37 +96,41 @@
       "socials": {
         "github": "https://github.com/marvansa428-dev",
         "linkedin": "",
-        "portfolio": "https://github.com/marvansa428-dev/portfolio-marva.git"
+        "portfolio": "https:/github.com/marvansa428-dev/portfolio-marva.git"
       },
       "levelOfExperience": "debutant",
       "availability": "open to missions",
       "languages": ["Français", "Anglais"],
       "joinedAt": "2026-05-27"
+<<<<<<< HEAD
     },
     {
-      "id": "dev-512",
-      "firstName": "Abdoul Wadoud",
-      "lastName": "BAKARY",
-      "avatar": "/public/avatars/abdoul.png",
-      "role": "Développeur Front-end",
+      "id": "dev-010",
+      "firstName": "Fatim",
+      "lastName": "Nsangou",
+      "avatar": "/public/avatars/fatou.png",
+      "role": "Développeuse Frontend",
       "team": "Team Alpha",
-      "email": "eyichris88@gmail.com",
+      "email": "fatoumatansangou@gmail.com",
       "location": "Libreville, Gabon",
-      "bio": "Développeur web et mobile, passionné par l'architecture logicielle et le web design.",
+      "bio": "Développeuse web en formation à L'école241 Passionnée du Numérique et de la Technologie",
       "stack": {
-        "languages": ["TypeScript", "JavaScript", "HTML5", "CSS3"],
-        "tools": ["Node.js", "npm", "Figma", "Vite"]
+        "languages": ["HTML5", "CSS3","JavaScript"],
+        "tools": ["Figma", "Visual Studio Code", "GitHub", "Vite", "Visily AI"]
       },
-      "projects": ["proj-001", "proj-050"],
+      "projects": ["proj-001"],
       "socials": {
-        "github": "https://github.com/Abdoul-12",
-        "linkedin": "https://www.linkedin.com/in/abdoul-wadoud-bakary-60a335365/",
-        "portfolio": "https://abdoul-12.github.io/My-portfolio/"
+        "github": "https://github.com/Fatim007",
+        "linkedin": "",
+        "portfolio": "https://fatim007.github.io/Portofolio/"
       },
-      "levelOfExperience": "Débutant",
+      "levelOfExperience": "Débutante",
       "availability": "open_to_missions",
       "languages": ["Français", "Anglais"],
-      "joinedAt": "2026-05-31"
+      "joinedAt": "2025-15-10"
+=======
+
+>>>>>>> develop
     }
   ],
   "teams": [

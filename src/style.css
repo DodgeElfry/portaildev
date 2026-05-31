@@ -1,7 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap");
 
+  /*=====================
+    VARIABLES (develop)
+    ======================= */
 :root {
-    /* couleurs */
+    /* variables */
     --primary-color: #ffff;
     --text-color: #121A33;
     --text-colorgrasbuton: #6C63FF;
@@ -21,7 +24,9 @@
     --container: 1180px;
 }
 
-/* Base de la page */
+  /*=====================
+    STYLE DE LA PAGE (Abdoul)
+    ======================= */
 * {
     box-sizing: border-box;
 }
