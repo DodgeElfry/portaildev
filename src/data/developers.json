@@ -124,15 +124,36 @@
       "availability": "open_to_missions",
       "languages": ["Français", "Anglais"],
       "joinedAt": "2025-15-10"
-    }
+    },
+   {
+      "id": "dev-020",
+      "firstName": "Jeannisca",
+      "lastName": "NGUINA",
+      "avatar": "/public/avatars/jeannisca.png",
+      "role": "Développeuse frontend",
+      "team": "Team Alpha",
+      "email": "njeannisca@gmail.com",
+      "location": "Libreville, Gabon",
+      "bio": "Développeuse web en formation à Libreville, Gabon.",
+      "stack": {
+        "languages": ["HTML5", "CSS3", "JavaScript"],
+        "tools": ["Figma", "Vite", "GitHub", "Visual Studio Code"]
+
+      },
+      "Projects": ["proj-008"],
+      "socials": {
+        "github": "https://github.com/Jeannisca",
+        "linkedin": "https://linkedin.com/in/jeannisca-9a1b4a1b2/",
+        "portfolio": "https://jeannisca.github.io/mon_portfolio/"
+
+    },
+      "levelOfExperience": "Débutante",
+        "availability": "open_to_missions",
+        "languages": ["Français", "Anglais"],
+        "joinedAt": "2026-06-01"
+      } 
   ],
   "teams": [
-    {
-      "id": "team-alpha",
-      "name": "Team Alpha",
-      "color": "#6366f1",
-      "focus": "Fullstack"
-    },
     {
       "id": "team-beta",
       "name": "Team Beta",
