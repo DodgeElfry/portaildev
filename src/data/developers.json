@@ -50,9 +50,7 @@
       "languages": ["Français", "Anglais"],
       "joinedAt": "2026-05-26"
     },
-    {
-<<<<<<< HEAD
-=======
+     {
       "id": "dev-010",
       "firstName": "Fatim",
       "lastName": "Nsangou",
@@ -61,9 +59,9 @@
       "team": "Team Alpha",
       "email": "fatoumatansangou@gmail.com",
       "location": "Libreville, Gabon",
-      "bio": "Développeuse web en formation à L'école241 Passionnée du Numérique et de la Technologie",
+      "bio": "Développeuse web en formation à L'école241. Passionnée du Numérique et de la Technologie.",
       "stack": {
-        "languages": ["HTML5", "CSS3","JavaScript"],
+        "languages": ["HTML5", "CSS3", "JavaScript"],
         "tools": ["Figma", "Visual Studio Code", "GitHub", "Vite", "Visily AI"]
       },
       "projects": ["proj-001"],
@@ -75,19 +73,18 @@
       "levelOfExperience": "Débutante",
       "availability": "open_to_missions",
       "languages": ["Français", "Anglais"],
-      "joinedAt": "2025-15-10"
+      "joinedAt": "2025-10-15"
     },
     {
->>>>>>> develop
       "id": "dev-022",
       "firstName": "Marva Lorene",
       "lastName": "NSA OBOUNOU",
       "avatar": "/public/avatars/marva.png",
-      "role": "Développeur full-stack",
+      "role": "Développeuse full-stack",
       "team": "Team Alpha",
-      "email": "marvansa428@gmail",
+      "email": "marvansa428@gmail.com",
       "location": "Libreville, Gabon",
-      "bio": "Developpeur web, attirée par les logiciels et la conception des projets numériques modernes",
+      "bio": "Développeuse web, attirée par les logiciels et la conception des projets numériques modernes.",
       "stack": {
         "languages": ["HTML5", "CSS3", "JavaScript", "TypeScript"],
         "tools": ["Figma", "Vite", "Visual Studio Code", "GitHub"]
@@ -96,41 +93,12 @@
       "socials": {
         "github": "https://github.com/marvansa428-dev",
         "linkedin": "",
-        "portfolio": "https:/github.com/marvansa428-dev/portfolio-marva.git"
-      },
-      "levelOfExperience": "debutant",
-      "availability": "open to missions",
-      "languages": ["Français", "Anglais"],
-      "joinedAt": "2026-05-27"
-<<<<<<< HEAD
-    },
-    {
-      "id": "dev-010",
-      "firstName": "Fatim",
-      "lastName": "Nsangou",
-      "avatar": "/public/avatars/fatou.png",
-      "role": "Développeuse Frontend",
-      "team": "Team Alpha",
-      "email": "fatoumatansangou@gmail.com",
-      "location": "Libreville, Gabon",
-      "bio": "Développeuse web en formation à L'école241 Passionnée du Numérique et de la Technologie",
-      "stack": {
-        "languages": ["HTML5", "CSS3","JavaScript"],
-        "tools": ["Figma", "Visual Studio Code", "GitHub", "Vite", "Visily AI"]
-      },
-      "projects": ["proj-001"],
-      "socials": {
-        "github": "https://github.com/Fatim007",
-        "linkedin": "",
-        "portfolio": "https://fatim007.github.io/Portofolio/"
+        "portfolio": "https://github.com/marvansa428-dev/portfolio-marva.git"
       },
       "levelOfExperience": "Débutante",
       "availability": "open_to_missions",
       "languages": ["Français", "Anglais"],
-      "joinedAt": "2025-15-10"
-=======
-
->>>>>>> develop
+      "joinedAt": "2026-05-27"
     }
   ],
   "teams": [
