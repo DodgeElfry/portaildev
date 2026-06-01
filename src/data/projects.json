@@ -14,38 +14,10 @@
         "color": "#6366f1"
       },
       "members": [
-<<<<<<< HEAD
         { "devId": "dev-001", "role": "Fullstack & API" },
         { "devId": "dev-028", "role": "Data" },
         { "devId": "dev-010", "role": "Data & CSS" },
         { "devId": "dev-022", "role": "Fullstack" }
-=======
-        {
-          "devId": "dev-001",
-          "role": "Fullstack & API"
-        },
-        {
-          "devId": "dev-028",
-          "role": "Data"
-        },
-        {
-          "devId": "",
-          "role": ""
-        }
-
-        {
-          "devId": "dev-001",
-          "role": "Fullstack & API"
-        },
-        {
-          "devId": "dev-028",
-          "role": "Data"
-        },
-        {
-          "devId": "dev-022",
-          "role": "Fullstack"
-        }
->>>>>>> develop
       ],
       "stack": {
         "frontend": [
@@ -147,47 +119,46 @@
       "duration": "unknown",
       "client": "Dodge Elfry NGUIA",
       "isFeatured": true
-<<<<<<< HEAD
     },
-=======
-    }
-  ],
-  "meta": {
-    "totalProjects": 2,
-    "statusOptions": [
-      "mvp",
-      "En développement",
-      "En production",
-      "archivé"
-    ],
-    "visibilityOptions": [
-      "public",
-      "privé"
-    ],
-    "lastUpdated": "2026-05-26"
-  }
-},
-{
-  "id": "proj-022",
-  "name": "Consopilot",
-  "slug": "consopilot",
-  "tagline": "Plateforme de controle de consommation en eau et en energie",
-  "description": "...",
-  "status": "En développement",
-  "visibility": "privé",
-  "team": {
-    "id": "marva",
-    "name": "marva",
-    "color": "#0000FF"
-  },
-  "members": [
->>>>>>> develop
     {
-      "devId": "dev-001",
-      "role": "Developpeur Fullstack"
+     "id": "proj-022",
+     "name": "Consopilot",
+     "slug": "consopilot",
+     "tagline": "Plateforme de controle de consommation en eau et en energie",
+     "description": "...",
+     "status": "En développement",
+     "visibility": "privé",
+     "team": {
+      "id": "marva",
+      "name": "marva",
+      "color": "#0000FF"
+     },
+     "members": [
+      {
+        "devId": "dev-001",
+        "role": "Developpeur Fullstack"
+      }
+     ],
+     "stack": {
+      "frontend": [
+        "HTML5",
+        "CSS3",
+        "Typescript"
+      ],
+      "backend": [
+        "Node.js"
+      ]
+     },
+     "features": [
+      "Recherche",
+      "Localisation",
+      "Filtres",
+      "consultation",
+      "Paiements",
+      "Dashboard"
+      ]
     }
   ],
-<<<<<<< HEAD
   "meta": {
     "totalProjects": 2,
     "statusOptions": [
@@ -203,24 +174,3 @@
     "lastUpdated": "2026-05-26"
   }
 }
-=======
-  "stack": {
-    "frontend": [
-      "HTML5",
-      "CSS3",
-      "Typescript"
-    ],
-    "backend": [
-      "Node.js"
-    ]
-  },
-  "features": [
-    "Recherche",
-    "Localisation",
-    "Filtres",
-    "consultation",
-    "Paiements",
-    "Dashboard"
-  ]
-}
->>>>>>> develop
