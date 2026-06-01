@@ -128,10 +128,29 @@
   ],
   "teams": [
     {
-      "id": "team-alpha",
-      "name": "Team Alpha",
-      "color": "#6366f1",
-      "focus": "Fullstack"
+      "id": "DXY-667",
+      "name": "Sterge Dorsel",
+      "lastName": "MBADINGA MBADINGA",
+      "avatar": "/public/avatars/Sterge_Dorsel.png",
+      "role": "Développeur frontend",
+      "team": "Team Alpha",
+      "email": "mbadingasterge@gmail.com",
+      "location": "Libreville, Gabon",
+      "bio": "Développeur frontend passionné par la création de solutions innovantes et efficaces.",
+      "stack": {
+        "languages": ["HTML5", "CSS3", "JavaScript"],
+        "tools": ["Figma", "Visual Studio Code", "GitHub", "Vite"]
+      },
+      "projects": ["proj-667"],
+      "socials": {
+        "github": "https://github.com/Tonton-DXY",
+        "linkedin": "https://www.linkedin.com/in/sterge-dorsel-mbadinga-mbadinga-43753a322/",
+        "portfolio": ""
+      },
+      "levelOfExperience": "Débutant",
+      "availability": "open_to_missions",
+      "languages": ["Français", "Anglais"],
+      "joinedAt": "2026-06-01"
     },
     {
       "id": "team-beta",
