@@ -124,6 +124,31 @@
       "availability": "open_to_missions",
       "languages": ["Français", "Anglais"],
       "joinedAt": "2025-15-10"
+    },
+{ 
+      "id": "dev-005",
+      "firstName": "Marcel Lupin",
+      "lastName": "KOMBILA MOUNDOUNGA",
+      "avatar": "/public/avatars/marva.png",
+      "role": "Développeur full-stack",
+      "team": "Team Alpha",
+      "email": "marcellupinkombila@gmail.com",
+      "location": "Libreville, Gabon",
+      "bio": " Designer ux junior, Developpeur web en formation à L'école241 passionné du Numerique d'IA et d'Intelligence Artifficielle et d'Entreprenariat",
+      "stack": {
+        "languages": ["HTML5", "CSS3", "JavaScript", "TypeScript"],
+        "tools": ["Figma", "Vite", "Visual Studio Code", "GitHub"]
+      },
+      "projects": ["proj-001"],
+      "socials": {
+        "github": "https://github.com/Lupincode241",
+        "linkedin": "https://linkedin.com/in/Marcel-KOMBILA/",
+        "portfolio": "https://lupincode241"
+      },
+      "levelOfExperience": "debutant",
+      "availability": "open to missions",
+      "languages": ["Français", "Anglais"],
+      "joinedAt": "2026-05-26"
     }
   ],
   "teams": [
