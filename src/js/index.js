@@ -31,14 +31,14 @@ function construireCarteDeveloppeur(developpeur) {
   // On construit et retourne le HTML complet de la carte
   return `
     <article class="dev-card">
-      <a class="dev-link" href="${developpeur.socials.portfolio}">
+      <a class="card-link" href="${developpeur.socials.portfolio}">
         <div class="banner-card">
           <img class="avatar"
           src="${developpeur.avatar}"
           alt="Photo de ${developpeur.firstName} ${developpeur.lastName}"
           />
         </div>
-        <h3 class="dev-name">${developpeur.firstName} ${developpeur.lastName}</h3>
+        <h3 class"dev-nom">${developpeur.firstName} ${developpeur.lastName}</h3>
         <p class="role">${developpeur.role}</p>
         <p class="location">${developpeur.location}</p>
         <div class="badges">${badgesTechnologies}${badgesTools}</div>
@@ -68,9 +68,9 @@ function construireCarteProjet(projet) {
 
   return `
     <article class="carte-projet">
-      <a class="project-link" href="${lienVersLaPageDetail}">
-        <div class="banner-project">
-          <img class="project-view" src="${projet.thumbnail}" alt="${projet.name}" />
+      <a class="link-projet" href="${lienVersLaPageDetail}">
+        <div>
+          <img src="${projet.thumbnail}" alt="${projet.name}" />
           <div>
             <h3 class="project-name">${projet.name}</h3>
             <p class="project-info">${projet.tagline}</p>
