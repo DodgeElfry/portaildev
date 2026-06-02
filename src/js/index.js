@@ -31,16 +31,16 @@ function construireCarteDeveloppeur(developpeur) {
   // On construit et retourne le HTML complet de la carte
   return `
     <article class="dev-card">
-      <a href="${developpeur.socials.portfolio}">
+      <a class="dev-link" href="${developpeur.socials.portfolio}">
         <div class="banner-card">
           <img class="avatar"
           src="${developpeur.avatar}"
           alt="Photo de ${developpeur.firstName} ${developpeur.lastName}"
           />
         </div>
-        <h3>${developpeur.firstName} ${developpeur.lastName}</h3>
+        <h3 class="dev-name">${developpeur.firstName} ${developpeur.lastName}</h3>
         <p class="role">${developpeur.role}</p>
-        <p class="role">${developpeur.location}</p>
+        <p class="location">${developpeur.location}</p>
         <div class="badges">${badgesTechnologies}${badgesTools}</div>
       </a>
     </article>
@@ -68,12 +68,12 @@ function construireCarteProjet(projet) {
 
   return `
     <article class="carte-projet">
-      <a href="${lienVersLaPageDetail}">
-        <div>
-          <img src="${projet.thumbnail}" alt="${projet.name}" />
+      <a class="project-link" href="${lienVersLaPageDetail}">
+        <div class="banner-project">
+          <img class="project-view" src="${projet.thumbnail}" alt="${projet.name}" />
           <div>
-            <h3>${projet.name}</h3>
-            <p>${projet.tagline}</p>
+            <h3 class="project-name">${projet.name}</h3>
+            <p class="project-info">${projet.tagline}</p>
           </div>
         </div>
         <div class="badges">${badgesTechnologies}</div>
