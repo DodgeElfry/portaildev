@@ -18,13 +18,13 @@ document.querySelector("#app").innerHTML = `
     </nav>
   </header>
   <main>
-    <hero>
+    <div class="hero">
       <h1>
         Bienvenue sur <strong>DevConnect</strong><br>
         Votre portail de portfolio des developpeurs web
       </h1>
       <p>Trouvez des développeurs, parcourir les projets, contacter les profils qui correspondent à votre besoin</p>
-    </hero>
+    </div>
     <section id="profiles-section">
       <span>
         <svg class="section-icon" id="profile-icon" width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
