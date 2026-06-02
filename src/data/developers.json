@@ -176,7 +176,32 @@
         "availability": "open_to_missions",
         "languages": ["Français", "Anglais"],
         "joinedAt": "2026-06-01"
-     } 
+     },
+     {
+      "id": "dev-667",
+      "firstName": "Sterge Dorsel",
+      "lastName": "MBADINGA MBADINGA",
+      "avatar": "/public/avatars/Sterge_Dorsel.png",
+      "role": "Développeuse Frontend",
+      "team": "Team Alpha",
+      "email": "mbadingasterge@gmail.com",
+      "location": "Libreville, Gabon",
+      "bio": "Développeuse web frontend passionnée par la création de solutions innovantes et efficaces.",
+      "stack": {
+        "languages": ["HTML5", "CSS3","JavaScript"],
+        "tools": ["Figma", "Visual Studio Code", "GitHub", "Vite", "Tailwind CSS"]
+      },
+      "projects": ["proj-007"],
+      "socials": {
+        "github": "https://github.com/Tonton-DXY",
+        "linkedin": "https://www.linkedin.com/in/sterge-dorsel-mbadinga-mbadinga-43753a322/",
+        "portfolio": "https://tonton-dxy.github.io/TontonDXY.github.io/"
+      },
+      "levelOfExperience": "Débutant",
+      "availability": "Ouvert aux missions",
+      "languages": ["Français", "Anglais"],
+      "joinedAt": "2026-06-01"
+    } 
   ],
   "teams": [
     {
