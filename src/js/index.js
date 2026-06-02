@@ -72,8 +72,8 @@ function construireCarteProjet(projet) {
         <div>
           <img src="${projet.thumbnail}" alt="${projet.name}" />
           <div>
-            <h3>${projet.name}</h3>
-            <p>${projet.tagline}</p>
+            <h3 class="project-name">${projet.name}</h3>
+            <p class="project-info">${projet.tagline}</p>
           </div>
         </div>
         <div class="badges">${badgesTechnologies}</div>
