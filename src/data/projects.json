@@ -157,7 +157,57 @@
       "Paiements",
       "Dashboard"
       ]
-    }
+    },
+    {
+    "id": "proj-004",
+    "name": "INFO-UNIVERS",
+    "slug": "info-univers",
+    "tagline": "Plateforme d'information et de ressources pour les étudiants en informatique",
+    "description": "Une plateforme qui fournit des informations, des ressources et des opportunités pour les étudiants en informatique, les aidant à naviguer dans leur parcours académique et professionnel.",
+    "status": "En développement",
+    "visibility": "privé",
+    "team": {
+      "id": "anonime",
+      "name": "Anonime",
+      "color": "#FF5733"
+    },
+    "members": [
+      {
+        "devId": "dev-028",
+        "role": "Développeur Fullstack"
+      }
+    ],
+    "stack": {
+      "frontend": [
+        "HTML5",
+        "CSS3",
+        "Javascript"
+      ],
+      "backend": [
+        "Node.js"
+      ]
+    },
+    "features":[
+
+    ],
+    "thumbnail": "/public/projects/info-univers/logo.png",
+    "screenshots": [
+      "/public/projects/info-univers/home.png",
+      "/public/projects/info-univers/resources.png",
+      "/public/projects/info-univers/opportunities.png"
+    ],
+    "tags": [
+      "web",
+      "information",
+      "étudiants",
+      "ressources"
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "unknown",
+    "duration": "unknown",
+    "client": "Christ Jordan OBIANG",
+    "isFeatured": true
+  }
   ],
   "meta": {
     "totalProjects": 2,
@@ -174,3 +224,4 @@
     "lastUpdated": "2026-05-26"
   }
 }
+

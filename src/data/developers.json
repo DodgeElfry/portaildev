@@ -54,7 +54,7 @@
       "id": "dev-028",
       "firstName": "Christ Jordan",
       "lastName": "OBIANG",
-      "avatar": "/public/avatars/christ.png",
+      "avatar": "/public/avatars/Christ.jpeg",
       "role": "Développeur full-stack",
       "team": "Team Alpha",
       "email": "christjordan53@gmail.com",
@@ -80,11 +80,11 @@
       "firstName": "Marva Lorene",
       "lastName": "NSA OBOUNOU",
       "avatar": "/public/avatars/marva.png",
-      "role": "Développeur full-stack",
+      "role": "Développeuse full-stack",
       "team": "Team Alpha",
-      "email": "marvansa428@gmail",
+      "email": "marvansa428@gmail.com",
       "location": "Libreville, Gabon",
-      "bio": "Developpeur web, attirée par les logiciels et la conception des projets numériques modernes",
+      "bio": "Développeuse web, attirée par les logiciels et la conception des projets numériques modernes.",
       "stack": {
         "languages": ["HTML5", "CSS3", "JavaScript", "TypeScript"],
         "tools": ["Figma", "Vite", "Visual Studio Code", "GitHub"]
@@ -123,7 +123,7 @@
       "levelOfExperience": "Débutante",
       "availability": "open_to_missions",
       "languages": ["Français", "Anglais"],
-      "joinedAt": "2025-15-10"
+      "joinedAt": "2026-05-27"
     },
    {
       "id": "dev-020",
@@ -151,7 +151,7 @@
         "availability": "open_to_missions",
         "languages": ["Français", "Anglais"],
         "joinedAt": "2026-06-01"
-      } 
+     } 
   ],
   "teams": [
     {
