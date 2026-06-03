@@ -14,10 +14,22 @@
         "color": "#6366f1"
       },
       "members": [
-        { "devId": "dev-001", "role": "Fullstack & API" },
-        { "devId": "dev-028", "role": "Data" },
-        { "devId": "dev-010", "role": "Data & CSS" },
-        { "devId": "dev-022", "role": "Fullstack" }
+        {
+          "devId": "dev-001",
+          "role": "Fullstack & API"
+        },
+        {
+          "devId": "dev-028",
+          "role": "Data"
+        },
+        {
+          "devId": "dev-010",
+          "role": "Data & CSS"
+        },
+        {
+          "devId": "dev-022",
+          "role": "Fullstack"
+        }
       ],
       "stack": {
         "frontend": [
@@ -121,107 +133,156 @@
       "isFeatured": true
     },
     {
-     "id": "proj-022",
-     "name": "Consopilot",
-     "slug": "consopilot",
-     "tagline": "Plateforme de controle de consommation en eau et en energie",
-     "description": "...",
-     "status": "En développement",
-     "visibility": "privé",
-     "team": {
-      "id": "marva",
-      "name": "marva",
-      "color": "#0000FF"
-     },
-     "members": [
-      {
-        "devId": "dev-001",
-        "role": "Developpeur Fullstack"
-      }
-     ],
-     "stack": {
-      "frontend": [
-        "HTML5",
-        "CSS3",
-        "Typescript"
+      "id": "proj-022",
+      "name": "Consopilot",
+      "slug": "consopilot",
+      "tagline": "Plateforme de controle de consommation en eau et en energie",
+      "description": "...",
+      "status": "En développement",
+      "visibility": "privé",
+      "team": {
+        "id": "marva",
+        "name": "marva",
+        "color": "#0000FF"
+      },
+      "members": [
+        {
+          "devId": "dev-001",
+          "role": "Developpeur Fullstack"
+        }
       ],
-      "backend": [
-        "Node.js"
-      ]
-     },
-     "features": [
-      "Recherche",
-      "Localisation",
-      "Filtres",
-      "consultation",
-      "Paiements",
-      "Dashboard"
+      "stack": {
+        "frontend": [
+          "HTML5",
+          "CSS3",
+          "Typescript"
+        ],
+        "backend": [
+          "Node.js"
+        ]
+      },
+      "features": [
+        "Recherche",
+        "Localisation",
+        "Filtres",
+        "consultation",
+        "Paiements",
+        "Dashboard"
       ]
     },
     {
-    "id": "proj-004",
-    "name": "INFO-UNIVERS",
-    "slug": "info-univers",
-    "tagline": "Plateforme d'information et de ressources pour les étudiants en informatique",
-    "description": "Une plateforme qui fournit des informations, des ressources et des opportunités pour les étudiants en informatique, les aidant à naviguer dans leur parcours académique et professionnel.",
-    "status": "En développement",
-    "visibility": "privé",
-    "team": {
-      "id": "anonime",
-      "name": "Anonime",
-      "color": "#FF5733"
-    },
-    "members": [
-      {
-        "devId": "dev-028",
-        "role": "Développeur Fullstack"
-      }
-    ],
-    "stack": {
-      "frontend": [
-        "HTML5",
-        "CSS3",
-        "Javascript"
+      "id": "proj-004",
+      "name": "INFO-UNIVERS",
+      "slug": "info-univers",
+      "tagline": "Plateforme d'information et de ressources pour les étudiants en informatique",
+      "description": "Une plateforme qui fournit des informations, des ressources et des opportunités pour les étudiants en informatique, les aidant à naviguer dans leur parcours académique et professionnel.",
+      "status": "En développement",
+      "visibility": "privé",
+      "team": {
+        "id": "anonime",
+        "name": "Anonime",
+        "color": "#FF5733"
+      },
+      "members": [
+        {
+          "devId": "dev-028",
+          "role": "Développeur Fullstack"
+        }
       ],
-      "backend": [
-        "Node.js"
-      ]
+      "stack": {
+        "frontend": [
+          "HTML5",
+          "CSS3",
+          "Javascript"
+        ],
+        "backend": [
+          "Node.js"
+        ]
+      },
+      "features": [],
+      "thumbnail": "/public/projects/info-univers/logo.png",
+      "screenshots": [
+        "/public/projects/info-univers/home.png",
+        "/public/projects/info-univers/resources.png",
+        "/public/projects/info-univers/opportunities.png"
+      ],
+      "tags": [
+        "web",
+        "information",
+        "étudiants",
+        "ressources"
+      ],
+      "startDate": "2026-06-01",
+      "endDate": "unknown",
+      "duration": "unknown",
+      "client": "Christ Jordan OBIANG",
+      "isFeatured": true
     },
-    "features":[
-
+    {
+      "id": "proj-070",
+      "name": "MADINA-TECH",
+      "slug": "madina-tech",
+      "tagline": "Plateforme de mise en relation entre les entreprises et les développeurs",
+      "description": "plateforme de mise en relation entre les entreprises et les développeurs, facilitant le recrutement et la collaboration sur des projets technologiques.",
+      "status": "En développement",
+      "visibility": "privé",
+      "team": {
+        "id": "dark",
+        "name": "Dark",
+        "color": "#1A1953"
+      },
+      "members": [
+        {
+          "devId": "dev-512",
+          "role": "Développeur Fullstack"
+        }
+        ],
+        "stack": {
+          "frontend": [
+            "HTML5",
+            "CSS3",
+            "Javascript"
+          ],
+          "backend": [
+            "Node.js"
+          ]
+        },
+        "features": [
+          "Recherche de projets",
+          "Connexion et déconnexion",
+          "Filtres par catégorie et statut",
+          "Liste des talents"
+          "etc..."
+        ],
+        "thumbnail": "/public/projects/madina-tech/madina-tech.png",
+        "screenshots": [
+          "/public/projects/madina-tech/madina-tech.png",
+        ],
+        "tags": [
+          "web",
+          "information",
+          "étudiants",
+          "ressources"
+        ],
+        "startDate": "2026-04-20",
+        "endDate": "unknown",
+        "duration": "unknown",
+        "client": "BAKARY Abdoul Wadoud",
+        "isFeatured": true
+      },
     ],
-    "thumbnail": "/public/projects/info-univers/logo.png",
-    "screenshots": [
-      "/public/projects/info-univers/home.png",
-      "/public/projects/info-univers/resources.png",
-      "/public/projects/info-univers/opportunities.png"
-    ],
-    "tags": [
-      "web",
-      "information",
-      "étudiants",
-      "ressources"
-    ],
-    "startDate": "2026-06-01",
-    "endDate": "unknown",
-    "duration": "unknown",
-    "client": "Christ Jordan OBIANG",
-    "isFeatured": true
+    "meta": {
+      "totalProjects": 2,
+      "statusOptions": [
+        "mvp",
+        "En développement",
+        "En production",
+        "archivé"
+      ],
+      "visibilityOptions": [
+        "public",
+        "privé"
+      ],
+      "lastUpdated": "2026-05-26"
+    }
   }
-  ],
-  "meta": {
-    "totalProjects": 2,
-    "statusOptions": [
-      "mvp",
-      "En développement",
-      "En production",
-      "archivé"
-    ],
-    "visibilityOptions": [
-      "public",
-      "privé"
-    ],
-    "lastUpdated": "2026-05-26"
-  }
-}
-
